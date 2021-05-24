@@ -21,3 +21,21 @@ Before you open source your project, consider the effort required to maintain it
 ## License
 
 This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+
+## Simple Example of chat app
+This is an example of read me for the chat app. 
+
+## Technologies
+Bootstrap 3 or 4
+AngularJS 1.6 / Angular 2+/4/5/6
+PHP 5 or 7
+Python 2.7 or 3.6
+Rails 4 or 5
+
+
+## Contact
+simplechatappmaintainer@RANSCompany171210.com
+
+## Clone to repo and submit pull request when done
+
+
